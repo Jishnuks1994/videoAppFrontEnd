@@ -1,0 +1,24 @@
+api request
+---------------
+video add       -post -url, body
+get all videos  -get -url
+add category    -pose -url, body
+delete          -delete -url
+add video to category -post -url, body
+
+
+js api
+--------
+fetch/axios
+
+drag and drop
+
+draggable - to enavle dragging of an element
+droppable - to enable droppoing
+
+
+events 
+
+    onDragStrat -to check the drag started (this is an event with target value)
+    onDragHover -to check the drag dropped (this is an event with target value) 
+    onDrop - to identify the item dropped (this is an event with target value) 

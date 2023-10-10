@@ -1,0 +1,1 @@
+export const BASE_URL="https://videopro-1ifj.onrender.com"
